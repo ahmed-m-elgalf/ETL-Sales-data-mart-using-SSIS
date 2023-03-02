@@ -33,4 +33,4 @@ To populate fact sales table  I used sales orderID  table then matched with each
 
 
 
-![Screenshot: ](https://github.com/adam-p/markdown-here/raw/master/src/common/images/1.png )
+![Screenshot: ](https://github.com/ahmed-m-elgalf/ETL-Sales-data-mart-using-SSIS/tree/main/img/1.png )
