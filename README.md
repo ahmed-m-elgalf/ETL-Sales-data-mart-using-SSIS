@@ -9,7 +9,6 @@ To convert adventureworks ERD to sales data warehouse for analysis and reporting
 * Which products /  categories generate best sales  ?
 * What the total number of our customers and Who are our loyal customers ?
 * How our customers are segmented based on their location ?
-* Which products /  categories generate best sales  ?
 
 For each dimension I extracted required columns from different tables using merge and union and different transformation
 
